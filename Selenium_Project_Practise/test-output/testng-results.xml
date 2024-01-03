@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-02T08:19:08 IST" name="Default suite" finished-at="2024-01-02T08:20:00 IST" duration-ms="51693">
+    <groups>
+    </groups>
+    <test started-at="2024-01-02T08:19:08 IST" name="Default test" finished-at="2024-01-02T08:20:00 IST" duration-ms="51693">
+      <class name="testNGAssignment.Select_date_using_loop">
+        <test-method is-config="true" signature="invoke_Browser()[pri:0, instance:testNGAssignment.Select_date_using_loop@45099dd3]" started-at="2024-01-02T08:19:08 IST" name="invoke_Browser" finished-at="2024-01-02T08:19:51 IST" duration-ms="42662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke_Browser -->
+        <test-method signature="verify_date_dropdown()[pri:0, instance:testNGAssignment.Select_date_using_loop@45099dd3]" started-at="2024-01-02T08:19:51 IST" name="verify_date_dropdown" finished-at="2024-01-02T08:19:58 IST" duration-ms="6830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_date_dropdown -->
+        <test-method signature="verify_month_year()[pri:0, instance:testNGAssignment.Select_date_using_loop@45099dd3]" started-at="2024-01-02T08:19:58 IST" name="verify_month_year" finished-at="2024-01-02T08:20:00 IST" duration-ms="2021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_month_year -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGAssignment.Select_date_using_loop@45099dd3]" started-at="2024-01-02T08:20:00 IST" name="afterClass" finished-at="2024-01-02T08:20:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNGAssignment.Select_date_using_loop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
